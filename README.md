@@ -59,7 +59,7 @@ The user agrees to use the SeshBuddy app at their own risk. The creator disclaim
 
 ### 7. Data Privacy and UK GDPR Compliance
 
-The SeshBuddy app may collect and store certain user data for functionality and improvement purposes. The creator is committed to protecting user privacy and handling data in accordance with the UK General Data Protection Regulation (UK GDPR). For any questions or concerns regarding data privacy, please contact Jake Gibbons via Email at Jake_Gibbons@icloud.com or via phone call at 07946316946.
+The SeshBuddy app may collect and store certain user data for functionality and improvement purposes. The creator is committed to protecting user privacy and handling data in accordance with the UK General Data Protection Regulation (UK GDPR). For any questions or concerns regarding data privacy, please contact Jake Gibbons via Email at ********* or via phone call at ***********.
 
 ### 8. App Modification and Discontinuation
 
